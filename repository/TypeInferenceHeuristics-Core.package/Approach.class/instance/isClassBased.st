@@ -1,0 +1,3 @@
+testing
+isClassBased
+	^ false

@@ -1,0 +1,3 @@
+*TypeInferenceHeuristics-Core
+isBlockTemporary
+	^ false

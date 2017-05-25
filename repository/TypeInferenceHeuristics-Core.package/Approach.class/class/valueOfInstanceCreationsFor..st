@@ -1,0 +1,3 @@
+orderingTypes
+valueOfInstanceCreationsFor: aClass
+	self subclassResponsibility

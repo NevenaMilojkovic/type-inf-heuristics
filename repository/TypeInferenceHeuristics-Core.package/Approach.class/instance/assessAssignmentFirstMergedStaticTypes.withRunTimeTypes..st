@@ -1,0 +1,3 @@
+assignmentFirstMerger
+assessAssignmentFirstMergedStaticTypes: staticTypes withRunTimeTypes: runTimeTypes
+	self subclassResponsibility

@@ -1,0 +1,4 @@
+dependencies
+performDependencies
+	self copyDependantSelectors.
+	self copyDependantAssignments.

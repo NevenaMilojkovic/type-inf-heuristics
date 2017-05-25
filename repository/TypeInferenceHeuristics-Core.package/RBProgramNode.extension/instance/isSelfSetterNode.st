@@ -1,0 +1,5 @@
+*TypeInferenceHeuristics-Core
+isSelfSetterNode
+	^ false
+
+	

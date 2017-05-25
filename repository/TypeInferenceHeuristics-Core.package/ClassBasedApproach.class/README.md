@@ -1,0 +1,1 @@
+I am concrete implementation of class Approach, and I represent the approach where the possible types for the variable are all the classes which understand the inreface of the variable.

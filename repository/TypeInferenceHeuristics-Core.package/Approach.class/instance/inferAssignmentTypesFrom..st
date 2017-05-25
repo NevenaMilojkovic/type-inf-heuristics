@@ -1,0 +1,3 @@
+findTypesOfVariables
+inferAssignmentTypesFrom: dictOfAssignments
+	assignmentTypes := dictOfAssignments

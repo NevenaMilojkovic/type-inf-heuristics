@@ -1,0 +1,5 @@
+*TypeInferenceHeuristics-Core
+isInitializeMessageNode
+	^ false
+
+	

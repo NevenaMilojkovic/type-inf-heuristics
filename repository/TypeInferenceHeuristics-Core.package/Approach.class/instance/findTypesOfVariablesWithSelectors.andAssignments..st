@@ -1,0 +1,5 @@
+findTypesOfVariables
+findTypesOfVariablesWithSelectors: dictOfSelectors andAssignments: dictOfAssignments
+	
+	self inferAssignmentTypesFrom: dictOfAssignments.
+	self inferSelectorTypesFrom: dictOfSelectors.

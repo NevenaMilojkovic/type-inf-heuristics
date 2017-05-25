@@ -1,0 +1,16 @@
+{
+	"category" : "TypeInferenceHeuristics-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NevenaMilojkovic 10/7/2015 14:30",
+	"instvars" : [
+		"tiClass",
+		"dependencies",
+		"classInstanceVariableNames" ],
+	"name" : "TIClassVisitor",
+	"pools" : [
+		 ],
+	"super" : "RBProgramNodeVisitor",
+	"type" : "normal" }

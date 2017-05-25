@@ -1,0 +1,3 @@
+testing
+isAliveInstancesHeuristic
+	^ false

@@ -1,0 +1,3 @@
+orderingTypes
+valueOfInlineCachesFor: aClass
+	self subclassResponsibility

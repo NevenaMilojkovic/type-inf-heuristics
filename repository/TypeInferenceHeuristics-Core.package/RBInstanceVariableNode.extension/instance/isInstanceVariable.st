@@ -1,0 +1,3 @@
+*TypeInferenceHeuristics-Core
+isInstanceVariable
+	^ true

@@ -1,0 +1,3 @@
+findTypesOfVariables
+inferSelectorTypesFrom: dictOfSelectors
+	self subclassResponsibility.

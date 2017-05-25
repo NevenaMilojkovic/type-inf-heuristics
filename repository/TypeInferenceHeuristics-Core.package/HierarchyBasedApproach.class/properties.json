@@ -1,0 +1,14 @@
+{
+	"category" : "TypeInferenceHeuristics-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NevenaMilojkovic 4/22/2016 14:04",
+	"instvars" : [
+		 ],
+	"name" : "HierarchyBasedApproach",
+	"pools" : [
+		 ],
+	"super" : "Approach",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"category" : "TypeInferenceHeuristics-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NevenaMilojkovic 11/28/2016 20:12",
+	"instvars" : [
+		"class",
+		"dictOfSelectors",
+		"dictOfAssignments",
+		"approaches",
+		"dictOfSelectorRootTypes" ],
+	"name" : "TIClass",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+orderingTypes
+hammingDistanceOfClass: aClass forVar: aString
+	self subclassResponsibility

@@ -1,0 +1,16 @@
+{
+	"category" : "TypeInferenceHeuristics-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NevenaMilojkovic 4/14/2016 16:25",
+	"instvars" : [
+		"heuristics",
+		"assignmentTypes",
+		"selectorTypes" ],
+	"name" : "Approach",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+orderingTypes
+valueOfAliveInstancesFor: aClass
+	self subclassResponsibility

@@ -1,0 +1,14 @@
+{
+	"category" : "TypeInferenceHeuristics-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NevenaMilojkovic 5/24/2016 14:23",
+	"instvars" : [
+		 ],
+	"name" : "TIDictionary",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

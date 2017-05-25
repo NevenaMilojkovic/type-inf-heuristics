@@ -1,0 +1,3 @@
+orderingTypes
+valueOfNameOccurencesFor: aClass
+	self subclassResponsibility

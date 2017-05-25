@@ -1,0 +1,3 @@
+findTypesOfVariables
+findSetOfClassesThatUnderstandInterface: aSet
+	self subclassResponsibility
