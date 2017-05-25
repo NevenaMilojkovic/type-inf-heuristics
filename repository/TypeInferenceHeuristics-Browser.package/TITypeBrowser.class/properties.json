@@ -1,0 +1,23 @@
+{
+	"category" : "TypeInferenceHeuristics-Browser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NevenaMilojkovic 5/23/2016 14:26",
+	"instvars" : [
+		"tiClass",
+		"variableModel",
+		"assModel",
+		"selectorModel",
+		"hierModel",
+		"classModel",
+		"labelModel",
+		"labelModel2",
+		"labelModel3",
+		"labelModel4" ],
+	"name" : "TITypeBrowser",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }
