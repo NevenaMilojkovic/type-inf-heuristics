@@ -1,0 +1,1 @@
+I am used to initialize a dictionary of class name occurrences throughout the image.

@@ -1,0 +1,14 @@
+{
+	"category" : "TypeInferenceHeuristics-Core-ClassNameOccurence",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NevenaMilojkovic 11/28/2016 19:15",
+	"instvars" : [
+		 ],
+	"name" : "InitializeClassNameOccurenceDictVisitor",
+	"pools" : [
+		 ],
+	"super" : "RBProgramNodeVisitor",
+	"type" : "normal" }

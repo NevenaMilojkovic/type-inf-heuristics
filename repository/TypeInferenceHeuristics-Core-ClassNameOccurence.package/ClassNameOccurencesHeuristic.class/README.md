@@ -1,0 +1,1 @@
+I represent a heuristic that sorts classes based on the frequency of class name occurrence within the image.

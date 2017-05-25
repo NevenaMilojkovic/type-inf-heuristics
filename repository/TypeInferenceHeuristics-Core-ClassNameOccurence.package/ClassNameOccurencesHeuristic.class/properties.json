@@ -1,0 +1,14 @@
+{
+	"category" : "TypeInferenceHeuristics-Core-ClassNameOccurence",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Heur" ],
+	"commentStamp" : "NevenaMilojkovic 11/28/2016 19:32",
+	"instvars" : [
+		 ],
+	"name" : "ClassNameOccurencesHeuristic",
+	"pools" : [
+		 ],
+	"super" : "Heuristic",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "TypeInferenceHeuristics-Core-ClassNameOccurence",
+	"classinstvars" : [
+		"dictionary" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NevenaMilojkovic 11/28/2016 19:20",
+	"instvars" : [
+		 ],
+	"name" : "ClassNameOccurrenceDictionary",
+	"pools" : [
+		 ],
+	"super" : "TIDictionary",
+	"type" : "normal" }
